@@ -4,7 +4,7 @@ A simple extension for refactoring PHP function calls into variables right from 
 
 ## Features
 
-![Refactors with quick actions. Smart variable name detection.](images/variables-refactor.gif)
+![Refactors with quick actions. Smart variable name detection.](https://raw.githubusercontent.com/macr1408/PHP-Variables-Refactor/master/images/variables-refactor.gif)
 
 ## Extension Settings
 

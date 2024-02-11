@@ -3,6 +3,7 @@
   "displayName": "PHP Variables Refactor",
   "description": "Refactor your variables easily",
   "version": "1.0.0",
+  "publisher": "MarcosCarpio",
   "engines": {
     "vscode": "^1.86.0"
   },
@@ -33,6 +34,10 @@
         }
       }
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/macr1408/PHP-Variables-Refactor.git"
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",
