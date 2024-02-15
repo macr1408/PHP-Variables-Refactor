@@ -1,5 +1,7 @@
 # PHP Variables Refactor
 
+[Check it out on VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=MarcosCarpio.php-variables-refactor)
+
 A simple extension for refactoring PHP function calls into variables right from the quick actions list.
 
 ## Features
@@ -14,9 +16,9 @@ This extension contributes the following settings:
 
 ## Contributing
 
-I created this extension with it being free, open source and collectively supported in mind. Therefore don't expect big updates from me aside from critical bug fixes.
+I developed this extension with the intention of it being freely available, open source, and supported collectively. Therefore, please don't anticipate significant updates from me beyond critical bug fixes.
 
-If you want a new feature I'll consider it, but since I'm not an expert with typescript (if you have checked the source code you probably already noticed that) I invite anyone to create a pull request and if it makes sense I'll support merging it.
+If you have a suggestion for a new feature, I'm open to considering it. However, it's worth noting that I'm not particularly proficient in TypeScript (as you may have noticed if you've looked at the source code). That said, I encourage anyone with the expertise to create a pull request, and if it aligns with the project's goals, I'll gladly support merging it.
 
 ## Release Notes
 
